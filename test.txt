@@ -1,0 +1,17 @@
+AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+GH_TOKEN=ghp_AbCdEfGhIjKlMnOpQrStUvWxYz12345678
+password = "SuperSecret123!"
+generic_password = "P@ssw0rd123"
+
+
+
+
+
+
+
+
+
+
+
+
