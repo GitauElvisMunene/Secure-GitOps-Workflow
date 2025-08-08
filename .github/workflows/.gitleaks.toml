@@ -1,7 +1,0 @@
-title = "gitleaks config"
-
-[[rules]]
-id = "generic-password"
-description = "Generic password assignments (generic_password or password)"
-regex = '''(?i)(?:\bgeneric_password\b|\bpassword\b)\s*[:=]\s*["'][^"'\n]{4,}["']'''
-# You can add more rules here for repo-specific keywords.
